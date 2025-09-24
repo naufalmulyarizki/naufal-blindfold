@@ -25,6 +25,7 @@ Blind Player With Item (RSG CORE)
 
 - [rsg-core](https://github.com/Rexshack-RedM/rsg-core)
 - [ox_lib](https://github.com/overextended/ox_lib)
+- [ox_target](https://github.com/overextended/ox_target)
 
 # Github Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=naufalmulyarizki/naufal-blindfold&type=Date)](https://star-history.com/#naufalmulyarizki/naufal-blindfold&Date)
